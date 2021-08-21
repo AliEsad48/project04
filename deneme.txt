@@ -1,4 +1,12 @@
 Merhaba
 Esad
 test
+<<<<<<< HEAD
 çakışma olacak
+=======
+deneme remote
+aaaaaaaaaaaaa
+
+
+
+>>>>>>> a529b02fca6f99912bb9404737c4bfac4bf201f3
